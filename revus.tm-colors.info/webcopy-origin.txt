@@ -1,0 +1,444 @@
+Uri: https://revus.tm-colors.info/dealer/product-tag/motor/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\motor\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/motor/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\motor\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/motor/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\motor\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/motor/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\motor\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/motor/feed/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\motor\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/parts/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\parts\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/parts/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\parts\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/parts/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\parts\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/parts/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\parts\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product-tag/parts/feed/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product-tag\parts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels-two/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels-two\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/alloy-wheels/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\alloy-wheels\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-6.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/baby-сhair/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\baby-сhair\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-2/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-2\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-3/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-3\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-6.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product-4/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product-4\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/product/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\product\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17420
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/test-motor-filter/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\test-motor-filter\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17414
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17416
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-6.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17417
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17418
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17419
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-7.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17421
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-1.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=17422
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=18061
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-2.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=18869
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=18870
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-4.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=18871
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-5.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/product/titanium-wheels/?add-to-cart=18872
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\product\titanium-wheels\index-3.htm
+Content Type: text/html
+
+Uri: https://revus.tm-colors.info/dealer/wp-json/wp/v2/product_tag/52
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\wp-json\wp\v2\product_tag\52
+Content Type: application/json
+
+Uri: https://revus.tm-colors.info/dealer/wp-json/wp/v2/product_tag/55
+File Name: C:\Downloaded Web Sites\revus.tm-colors.info\dealer\wp-json\wp\v2\product_tag\55
+Content Type: application/json
+

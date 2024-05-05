@@ -1,0 +1,1236 @@
+Uri: https://duruthemes.com/demo/html/renax/
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\index.htm
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/css/style.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\css\style.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\index.htm
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/404.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\404.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/about.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\about.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/blog.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\blog.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/blog2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\blog2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/car-details.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\car-details.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/car-details2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\car-details2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/car-types.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\car-types.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/car-types2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\car-types2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/cars.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\cars.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/cars2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\cars2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/contact.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\contact.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/close.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\close.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/datepicker.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\datepicker.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/flaticon.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\flaticon.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/font-awesome-pro.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\font-awesome-pro.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/omFont.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\omFont.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/select2.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\select2.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/themify-icons.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\themify-icons.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/vegas.slider.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\vegas.slider.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/plugins/YouTubePopUp.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\plugins\YouTubePopUp.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/css/style.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\css\style.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/dark/faq.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\faq.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/omFont.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\omFont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/omFont.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\omFont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/omFont.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\omFont.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/omFont.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\omFont.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/omFont.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\omFont.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/themify.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/dark/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/dark/gallery-image.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\gallery-image.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/gallery-video.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\gallery-video.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/about.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/about2.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\about2.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/app.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\app.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/01.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/02.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/03.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/04.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/05.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/blog/06.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/01.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\01.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/02.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\02.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/03.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\03.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/04.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\04.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/05.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\05.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/06.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\06.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/c7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\c7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/c8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\c8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/cars/c9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\cars\c9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/1.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\1.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/2.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\2.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/3.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\3.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/4.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\4.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/5.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\5.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/6.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\6.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/7.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\7.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/clients/8.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\clients\8.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/favicon.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\favicon.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/logo-light.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\logo-light.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/11.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\11.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/11a.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\11a.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/11b.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\11b.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/12.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\12.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/13.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\13.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/14.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\14.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/15.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\15.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/19.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\19.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/slider/9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\slider\9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/img/team/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\img\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/dark/index.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\index.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/index2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\index2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/index3.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\index3.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/index4.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\index4.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/custom.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\custom.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/datepicker.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery-migrate-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery-migrate-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery.isotope.v3.0.2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery.isotope.v3.0.2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/popper.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/select2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\select2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/vegas.slider.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\vegas.slider.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/js/YouTubePopUp.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\js\YouTubePopUp.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/dark/onepage-image.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\onepage-image.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/onepage-slider.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\onepage-slider.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/onepage-slideshow.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\onepage-slideshow.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/onepage-video.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\onepage-video.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/post.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\post.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/price.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\price.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/services.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\services.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/team-single.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\team-single.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/team.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\team.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/dark/testiominals.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\dark\testiominals.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/fonts/themify.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/images/dark.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\images\dark.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/images/envato-logo.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\images\envato-logo.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/images/favicon.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\images\favicon.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/images/light.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\images\light.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/images/logo-light.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\images\logo-light.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/js/main.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\js\main.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\index.htm
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/404.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\404.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/about.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\about.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/blog.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\blog.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/blog2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\blog2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/car-details.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\car-details.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/car-details2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\car-details2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/car-types.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\car-types.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/car-types2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\car-types2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/cars.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\cars.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/cars2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\cars2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/contact.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\contact.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/close.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\close.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/datepicker.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\datepicker.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/flaticon.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\flaticon.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/font-awesome-pro.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\font-awesome-pro.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/omFont.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\omFont.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/select2.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\select2.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/themify-icons.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\themify-icons.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/vegas.slider.min.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\vegas.slider.min.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/plugins/YouTubePopUp.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\plugins\YouTubePopUp.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/css/style.css
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\css\style.css
+Content Type: text/css
+
+Uri: https://duruthemes.com/demo/html/renax/light/faq.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\faq.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/omFont.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\omFont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/omFont.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\omFont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/omFont.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\omFont.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/omFont.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\omFont.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/omFont.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\omFont.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/themify.svg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://duruthemes.com/demo/html/renax/light/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://duruthemes.com/demo/html/renax/light/gallery-image.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\gallery-image.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/gallery-video.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\gallery-video.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/about.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/about2.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\about2.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/app.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\app.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/01.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/02.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/03.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/04.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/05.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/blog/06.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/01.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\01.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/02.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\02.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/03.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\03.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/04.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\04.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/05.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\05.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/06.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\06.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/c7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\c7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/c8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\c8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/cars/c9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\cars\c9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/1.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\1.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/2.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\2.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/3.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\3.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/4.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\4.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/5.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\5.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/6.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\6.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/7.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\7.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/clients/8.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\clients\8.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/favicon.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\favicon.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/logo-light.png
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\logo-light.png
+Content Type: image/png
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/11.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\11.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/11a.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\11a.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/11b.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\11b.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/12.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\12.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/13.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\13.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/14.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\14.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/15.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\15.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/19.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\19.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/7.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\7.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/8.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\8.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/slider/9.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\slider\9.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/1.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/2.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/3.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/4.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/5.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/img/team/6.jpg
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\img\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://duruthemes.com/demo/html/renax/light/index.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\index.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/index2.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\index2.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/index3.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\index3.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/index4.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\index4.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/custom.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\custom.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/datepicker.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery-migrate-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery-migrate-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery.isotope.v3.0.2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery.isotope.v3.0.2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/popper.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/select2.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\select2.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/vegas.slider.min.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\vegas.slider.min.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/js/YouTubePopUp.js
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\js\YouTubePopUp.js
+Content Type: application/javascript
+
+Uri: https://duruthemes.com/demo/html/renax/light/onepage-image.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\onepage-image.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/onepage-slider.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\onepage-slider.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/onepage-slideshow.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\onepage-slideshow.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/onepage-video.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\onepage-video.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/post.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\post.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/price.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\price.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/services.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\services.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/team-single.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\team-single.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/team.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\team.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/light/testiominals.html
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\light\testiominals.html
+Content Type: text/html
+
+Uri: https://duruthemes.com/demo/html/renax/video.mp4
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\video.mp4
+Content Type: video/mp4
+
+Uri: https://duruthemes.com/demo/html/renax/video.webm
+File Name: C:\Downloaded Web Sites\duruthemes.com\demo\html\renax\video.webm
+Content Type: video/webm
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\duruthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: C:\Downloaded Web Sites\duruthemes.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+Content Type: font/ttf
+
